@@ -17,6 +17,6 @@
       "*": ["node_modules/*"]
     }
   },
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "src/utils/mapStatusHTTP.ts"],
   "exclude": ["src/tests"]
 }
