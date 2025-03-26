@@ -3,8 +3,6 @@
 ![image](https://github.com/user-attachments/assets/2598c325-958d-4678-a6d4-3e690ef42064)
 
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
   O `TFC` é um site informativo sobre partidas e classificações de futebol! ⚽️
